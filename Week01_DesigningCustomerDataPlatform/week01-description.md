@@ -11,7 +11,7 @@
 
 #
 
-Example : GrabFood ( Only in food section )
+Example : **GrabFood** ( Only in food section )
 
 ![Personal visualization - customer data platform 01-0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/e9394201-87b1-4f4b-a6df-23f84e6f62ab)
 
