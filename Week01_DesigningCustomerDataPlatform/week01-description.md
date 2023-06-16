@@ -1,2 +1,6 @@
 # Designing Customer Data Platform
-Data platform architecture
+:round_pushpin: **GOAL :** 
+> Designing a Data Platform Architecture for a company based on example interest types
+
+# <h4>Tools & Others</h4>
+
