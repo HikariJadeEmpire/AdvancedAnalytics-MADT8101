@@ -1,5 +1,5 @@
 # AdvancedAnalytics-MADT8101
-Repositories of analytics workshop
+Description : Repositories of analytics workshop
 
 # <h4>WEEK 01</h4>
 [Designing Customer Data Platform](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week01_DesigningCustomerDataPlatform/week01-description.md#designing-customer-data-platform)
