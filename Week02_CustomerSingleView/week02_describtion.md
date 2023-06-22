@@ -23,7 +23,7 @@
 
 [![](https://img.shields.io/badge/Git-.CSV-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/supermarket.csv)
 
-*( Supermarket company (Lotus) data from 2006 to 2008 )*
+*( Supermarket (Lotus) data from 2006 to 2008, US )*
 
 **CODE** : <br>
 
