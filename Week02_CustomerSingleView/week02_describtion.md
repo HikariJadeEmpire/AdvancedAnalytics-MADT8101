@@ -56,7 +56,7 @@ First inspection <br>
 
 XX
 
-add column ['qty_per_year'](https://thewisdom.co/content/customer-lifetime-value/) and (most freq + meantime between)
+add column ['qty_per_all'](https://thewisdom.co/content/customer-lifetime-value/) and (most freq + meantime between)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) <br>
