@@ -18,15 +18,14 @@
 [![](https://img.shields.io/badge/OS-Windows-green?style=f?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/)
 [![](https://img.shields.io/badge/Git_Update-22_Jun_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
-# <h4>STEP 1</h4>
-- EDA
-- Clean DATA
-
 **CODE** : <br>
 
 <a href="https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/KMean_LostusAnalytic.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
+# <h4>STEP 1</h4>
+- EDA
+- Clean DATA
   
 
 
