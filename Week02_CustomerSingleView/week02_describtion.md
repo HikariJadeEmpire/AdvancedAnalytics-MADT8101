@@ -49,7 +49,6 @@ First inspection <br>
 
 <br>
 
-จากข้อมูลที่ได้มา พบว่ายังไม่เพียงพอที่จะสามารถนำไปใช้งานได้ <br>
 เพื่อทำให้ได้ตามเป้าหมาย ( [:pushpin: **Goal** :fire:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) ) เราจะนำ ```Analytics Engines``` มาใช้งาน <br>
 
 จากข้อมูลที่ได้มาในเบื้องต้น สามารถนำมากำหนดเป้าหมายในการสร้าง ```customer single view``` ได้ดังนี้ : <br>
