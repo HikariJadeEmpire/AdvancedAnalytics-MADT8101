@@ -1,6 +1,6 @@
 # Customer Single View
 :pushpin: **Goal** :fire: : 
-> เป้าหมายของเราคือการทำ Customer single view หรือก็คือการทำแผนภาพที่สามารถอธิบายลูกค้าได้ชัดเจน มี insights และสามารถนำไปต่อยอดได้
+> เป้าหมายของเราคือการทำ ```Customer single view``` หรือก็คือการทำแผนภาพที่สามารถอธิบายลูกค้า ( customer ) :standing_person: ได้ชัดเจน มี insights :chart_with_upwards_trend: และสามารถนำไปวางแผนต่อยอดได้
 
 #
 **Tools & Others**
