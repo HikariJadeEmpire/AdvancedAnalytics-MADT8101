@@ -7,7 +7,7 @@ Description :
 
 **Tools & Others**
 
-[![](https://img.shields.io/badge/tools-miro-green?style=f?style=flat-square&logo=miro&logoColor=white&color=2bbc8a)](https://miro.com/)
+[![](https://img.shields.io/badge/tools-miro-rgb(244,208,63)?style=f?style=flat-square&logo=miro&logoColor=white)](https://miro.com/)
 [![](https://img.shields.io/badge/OS-Mac-green?style=f?style=flat-square&logo=macos&logoColor=white)](https://www.apple.com/macos/ventura/)
 [![](https://img.shields.io/badge/OS-Windows-green?style=f?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/)
 [![](https://img.shields.io/badge/Git_Update-16_Jun_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
@@ -17,7 +17,7 @@ Description :
 
 **Tools & Others**
 
-[![](https://img.shields.io/badge/tools-miro-green?style=f?style=flat-square&logo=miro&logoColor=white&color=2bbc8a)](https://miro.com/)
+[![](https://img.shields.io/badge/tools-miro-rgb(244,208,63)?style=f?style=flat-square&logo=miro&logoColor=white)](https://miro.com/)
 [![](https://img.shields.io/badge/code-python3.9-green?style=f?style=flat-square&logo=python&logoColor=white&color=2bbc8a)](https://www.python.org/)
 [![](https://img.shields.io/badge/tools-jupyter-orange?style=f?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![](https://img.shields.io/badge/tools-SkLearn-green?style=f?style=flat-square&logo=scikitlearn&logoColor=white&color=2bbc8a)](https://scikit-learn.org/stable/)
