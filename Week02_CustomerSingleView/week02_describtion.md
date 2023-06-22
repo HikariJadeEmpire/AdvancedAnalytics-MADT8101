@@ -1,6 +1,6 @@
 # Customer Single View
 :pushpin: **Goal** :fire: : 
-> เป้าหมายของเราคือการทำ ```Customer single view``` หรือก็คือการทำแผนภาพที่สามารถอธิบายลูกค้า ( customer ) :standing_person: ได้ชัดเจน มี insights :chart_with_upwards_trend: และสามารถนำไปวางแผนต่อยอดได้
+> เป้าหมายของเราคือการทำ ```Customer single view``` หรือก็คือการสร้างแผนภาพที่สามารถอธิบายลูกค้า ( customer ) :standing_person: ได้ชัดเจน มี insights :chart_with_upwards_trend: ที่สามารถนำไปวางแผนต่อยอดได้ เช่น การจัดโปรโมชั่นเพื่อการรักษาลูกค้า หรือการทำ Product Recommendation เป็นต้น
 
 #
 **Tools & Others**
@@ -23,7 +23,7 @@
 
 [![](https://img.shields.io/badge/Git-.CSV-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/supermarket.csv)
 
-( Supermarket company (Lotus) data from 2006 to 2008 )
+*( Supermarket company (Lotus) data from 2006 to 2008 )*
 
 **CODE** : <br>
 
@@ -40,14 +40,21 @@ First inspection <br>
 ในภาพด้านบน เป็นการ Plot Histogram ของทุกๆ Features (Columns) เพื่อดูภาพรวมคร่าวๆ หลังจากที่ได้ทำการ Clean DATA :broom: ( e.g. เติมค่า ```NaN``` ) <br>
 ซึ่งจะสังเกตเห็นว่า <br>
 
-> - ลูกค้ามักจะมาซื้อสินค้าในช่วงเวลาที่ร้านใกล้จะปิด :no_entry_sign::convenience_store: ( 8pm until close ) และ ในช่วงบ่าย :sun_with_face: ( 1pm - 2pm )
+> - ลูกค้ามักจะมาซื้อสินค้าในช่วงเวลาที่ร้านใกล้จะปิด :no_entry_sign::convenience_store: ( 8pm until close ) มากที่สุด และรองลงมาคือช่วงบ่าย :sun_with_face: ( 1pm - 2pm )
 > - โดยส่วนใหญ่ลูกค้าจะซื้อไม่เกิน 10 ชิ้น และมีราคาไม่เกิน  :dollar: 50 US-Dollars
 > - ลูกค้าส่วนมากมีรายได้ระดับ :label: MM ( Mid Market ) หรือระดับปานกลาง
-> - ช่วงอายุของลูกค้าส่วนใหญ่ระบุไม่ได้  :family: และในส่วนที่ระบุได้ส่วนใหญ่เป็น YF ( Young Families )
-> - ลูกค้าส่วนมากใช้ตะกร้าขนาดใหญ่ :shopping_cart: ในการเลือกซื้อของ และมักจะ๙ื้อของเต็มตะกร้าเสมอ
+> - ช่วงอายุของลูกค้าส่วนใหญ่ระบุไม่ได้ :question: และในส่วนที่ระบุได้ส่วนใหญ่เป็น YF ( Young Families ) :family: 
+> - ลูกค้าส่วนมากใช้ตะกร้าขนาดใหญ่ :shopping_cart: ในการเลือกซื้อของ และมักจะซื้อของเต็มตะกร้าเสมอ
 > - ลูกค้าโดยส่วนใหญ่ซื้อสินค้าประเภทของสด ( Fresh ) :cut_of_meat:
 
-เพื่อทำให้ได้ตามเป้าหมาย ( [:pushpin: **Goal** :fire:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics-madt8101) ) เราจะนำ ```Analytics Engines``` มาใช้งาน
+<br>
+
+จากข้อมูลที่ได้มา พบว่ายังไม่เพียงพอที่จะสามารถนำไปใช้งานได้ <br>
+เพื่อทำให้ได้ตามเป้าหมาย ( [:pushpin: **Goal** :fire:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics-madt8101) ) เราจะนำ ```Analytics Engines``` มาใช้งาน <br>
+
+จากข้อมูลที่ได้มาในเบื้องต้น สามารถนำมากำหนดเป้าหมายในการสร้าง ```customer single view``` ได้ดังนี้ : <br>
+
+xx
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) <br>
