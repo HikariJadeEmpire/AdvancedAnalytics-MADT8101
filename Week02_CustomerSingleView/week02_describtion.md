@@ -23,7 +23,7 @@
 
 [![](https://img.shields.io/badge/Git-.CSV-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/supermarket.csv)
 
-*( Supermarket company (Lotus) data from 2006 to 2008 )*
+*( Supermarket (Lotus) data from 2006 to 2008, US )*
 
 **CODE** : <br>
 
@@ -49,12 +49,15 @@ First inspection <br>
 
 <br>
 
-จากข้อมูลที่ได้มา พบว่ายังไม่เพียงพอที่จะสามารถนำไปใช้งานได้ <br>
 เพื่อทำให้ได้ตามเป้าหมาย ( [:pushpin: **Goal** :fire:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) ) เราจะนำ ```Analytics Engines``` มาใช้งาน <br>
 
 จากข้อมูลที่ได้มาในเบื้องต้น สามารถนำมากำหนดเป้าหมายในการสร้าง ```customer single view``` ได้ดังนี้ : <br>
+<br>
 
-XX
+![Personal visualization - cust single view0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/76e88671-81ff-4350-9f36-fb4262470659)
+
+<br>
+add column ['qty_per_all'](https://thewisdom.co/content/customer-lifetime-value/) and (most freq + meantime between)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) <br>
