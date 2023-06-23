@@ -99,9 +99,11 @@ First inspection <br>
 
 โดยขั้นตอนคร่าวๆคือ : <br>
 
-**DATA Transformation** by ```preprocessing``` :arrow_forward: **Dimensionality Reduction** By ```TruncatedSVD``` or ```PCA``` :arrow_forward: ```KMeans```
+:vertical_traffic_light: **DATA Transformation** by ```preprocessing``` :arrow_forward: **Dimensionality Reduction** By ```TruncatedSVD``` or ```PCA``` :arrow_forward: ```KMeans``` :golfing_man:
 
-XX
+ซึ่งจะได้ผลลัพธ์ออกมาเป็น 4 กลุ่ม
+
+
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) <br>
