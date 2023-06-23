@@ -51,7 +51,7 @@ First inspection <br>
 #
 <br>
 
-เพื่อทำให้ได้ตามเป้าหมาย ( [:pushpin: **Goal** :fire:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) ) เราจะนำ ```Analytics Engines``` มาใช้งาน <br>
+เพื่อทำให้ได้ตามเป้าหมาย ( [:pushpin: **Goal** :fire:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) ) เราจะนำ ```Analytics Engines``` :gear: มาใช้งาน <br>
 
 จากข้อมูลที่ได้มาในเบื้องต้น สามารถนำมากำหนดเป้าหมาย 	:triangular_flag_on_post: ในการสร้าง ```customer single view``` ได้ ดังแผนภาพด้านล่าง : <br>
 <br>
@@ -59,7 +59,15 @@ First inspection <br>
 ![Personal visualization - cust single view0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/76e88671-81ff-4350-9f36-fb4262470659)
 
 <br>
-จากแผนภาพดังกล่าว เราสามารถนำ DATA Insights ไปต่อยอดได้ดังนี้ : <br>
+
+**คำอธิบาย :** 
+> อ้างอิงจาก Balance contribution ที่มุมบนซ้าย เราได้ตั้งเป้าหมายว่าจะ Focus :triangular_flag_on_post: ไปที่การรักษาลูกค้า <br>
+> และนำ ```Analytics Engines``` :gear: มาเรียบเรียงเพื่อดูว่ามีเครื่องมือไหนที่ใช้กับ DATA ชุดนี้ได้บ้าง
+>
+> จากนั้นก็ทำการ :dart: กำหนดเป้าหมาย แล้วหยิบเอา ```Analytics Engines``` :gear: ที่เหมาะสมมาใช้งาน
+
+<br>
+จากแผนภาพดังกล่าว เราสามารถนำ DATA Insights ไปต่อยอดได้ดังตัวอย่างด้านล่างนี้ : <br>
 <br>
 
 > 1. กำหนดเวลาในการซื้อสินค้า :soon: โดยใช้ระยะเวลาโปรโมชั่นสั้นๆเพื่อสร้างความคาดหวังและกระตุ้นให้เกิดการซื้อ
