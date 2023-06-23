@@ -5,13 +5,14 @@
 #
 **Tools & Others**
 
+[![](https://img.shields.io/badge/tools-Power_BI-rgb(244,208,63)?style=f?style=flat-square&logo=powerbi&logoColor=white)](https://app.powerbi.com/)
 [![](https://img.shields.io/badge/tools-miro-rgb(244,208,63)?style=f?style=flat-square&logo=miro&logoColor=white)](https://miro.com/)
 [![](https://img.shields.io/badge/code-python3.9-green?style=f?style=flat-square&logo=python&logoColor=white&color=2bbc8a)](https://www.python.org/)
 [![](https://img.shields.io/badge/tools-jupyter-orange?style=f?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![](https://img.shields.io/badge/tools-VSCode-blue?style=f?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/tools-SkLearn-green?style=f?style=flat-square&logo=scikitlearn&logoColor=white&color=2bbc8a)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/ML-KMeans-green?style=f?style=flat-square&logo=scikitlearn&logoColor=white&color=2bbc8a)](https://scikit-learn.org/stable/)
 [![](https://img.shields.io/badge/ML-preprocessing-green?style=f?style=flat-square&logo=scikitlearn&logoColor=white&color=2bbc8a)](https://scikit-learn.org/stable/)
-[![](https://img.shields.io/badge/tools-VSCode-blue?style=f?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/tools-Pandas-green?style=f?style=flat-square&logo=pandas&logoColor=white&color=2bbc8a)](https://pandas.pydata.org/)
 [![](https://img.shields.io/badge/tools-Numpy-green?style=f?style=flat-square&logo=numpy&logoColor=white&color=2bbc8a)](https://numpy.org/)
 [![](https://img.shields.io/badge/OS-Mac-green?style=f?style=flat-square&logo=macos&logoColor=white)](https://www.apple.com/macos/ventura/)
@@ -101,8 +102,59 @@ First inspection <br>
 
 :vertical_traffic_light: **DATA Transformation** by ```preprocessing``` :arrow_forward: **Dimensionality Reduction** By ```TruncatedSVD``` or ```PCA``` :arrow_forward: ```KMeans``` :golfing_man:
 
-ซึ่งจะได้ผลลัพธ์ออกมาเป็น 4 กลุ่ม
+ซึ่งจะได้ผลลัพธ์ออกมาเป็น 4 กลุ่ม <br>
+โดยเราจะทำการไล่เรียงลำดับจาก the worst :arrow_forward: the best <br>
 
+ซึ่งจะเริ่มจากกลุ่มที่ 4
+
+![lotusReport-all_Page_2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/8942a546-cfd5-4789-a8d0-2dbcf09fff49)
+
+สำหรับกลุ่มนี้ จะมีลักษณะคือ :
+> 1. มักจะใช้ตะกร้า size M และซื้อไม่เต็มตะกร้า (ซื้ออย่างละน้อย แต่หลายอย่าง)
+> 2. Life stage : OT (Others) หรือ ไม่สามารถระบุช่วงอายุได้
+> 3. กลุ่มนี้จะมาซื้อของโดยเฉลี่ยแล้ว จะซื้อเยอะที่สุดในวันจันทร์ ในช่วงเวลาประมาณ 12pm-1pm มาอีกทีตอน 4pm
+> 4. มักจะซื้อสินค้าประเภทของสด :cut_of_meat:
+> 5. โดยรวมแล้วกลุ่มนี้มีการซื้อสินค้าเฉลี่ยต่อปีน้อยที่สุด
+
+กลุ่มถัดมาคือกลุ่มที่ 1
+
+![lotusReport-all_Page_3](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/5f3a7695-a7df-487e-a89d-fc5d4ed1c3a9)
+
+สำหรับกลุ่มนี้ จะมีลักษณะคือ :
+> 1. มักจะใช้ตะกร้า size S และซื้อไม่เต็มตะกร้า (ซื้อน้อยกว่า และหลากหลายกว่ากลุ่มที่ 4)
+> 2. Life stage : Mixed หรือ หลากหลายช่วงอายุ
+> 3. กลุ่มนี้จะมาช่วงเย็นคือ 5pm และมากที่สุดในตอนที่ห้างใกล้ปิด (9pm) และมักจะมาช่วงวันเสาร์-จันทร์
+> 4. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีมากกว่ากลุ่มก่อนหน้านิดหน่อย
+
+กลุ่มถัดมาคือกลุ่มที่ 2
+
+![lotusReport-all_Page_4](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/f9de1d87-f01c-4037-9c95-250bb04b2e47)
+
+สำหรับกลุ่มนี้ จะมีลักษณะคือ :
+> 1. มักจะใช้ตะกร้า size L และซื้อเต็มตะกร้าตลอด และบางครั้งล้นตะกร้า (ซื้อน้อยกว่า และหลากหลายกว่ากลุ่มที่ 4)
+> 2. Life stage : OT (Others) or YF (Young Family)
+> 3. กลุ่มนี้จะมามากที่สุดในตอนที่ห้างใกล้ปิด (9pm) และมักจะมาวันจันทร์
+> 4. ถูกจัดอยู่ในกลุ่มรายได้ ต่ำ-ปานกลาง
+> 5. มักจะซื้อสินค้าประเภท Mixed หรือซื้อของหลากหลายประเภทรวมกัน
+> 6. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีค่อนข้างสูง
+
+กลุ่มถัดมาคือกลุ่มที่ 3 (กลุ่มสุดท้าย)
+
+![lotusReport-all_Page_5](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/6c40ef3f-6725-4b10-9d4c-e94190f0c8d4)
+
+สำหรับกลุ่มนี้ จะมีลักษณะคือ :
+> 1. มักจะใช้ตะกร้า size L และซื้อล้นตะกร้า
+> 2. SKU Penetrate สูงที่สุด หรือมีการซื้อสินค้าแทบจะครบทุกประเภทในร้าน
+> 3. Life stage : OT (Others) หรือ ไม่สามารถระบุช่วงอายุได้
+> 4. กลุ่มนี้จะมามากที่สุดในตอนที่ห้างใกล้ปิด (9pm) และมักจะมาวันอังคาร
+> 5. เป็นกลุ่มที่มีลูกค้าประเภท XX หรือ Non-Member มากที่สุด
+> 6. ถูกจัดอยู่ในกลุ่มรายได้ ปานกลาง-สูง
+> 7. มักจะซื้อสินค้าประเภทของสด :cut_of_meat: และสินค้าประเภท Grocery
+> 8. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีค่อนสูงที่สุด
+
+#
+
+เมื่อสังเกตลักษณะของกลุ่มลูกค้าทั้ง 4 กลุ่มแล้ว เราจะทำการสุ่มตัวอย่างลูกค้าขึ้นมา 1 คนเพื่อทำการอธิบายเพิ่มเติม <br>
 
 
 #
