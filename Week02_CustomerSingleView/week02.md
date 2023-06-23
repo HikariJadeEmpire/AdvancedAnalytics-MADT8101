@@ -80,17 +80,14 @@ First inspection <br>
 ในขั้นตอนนี้ เราจะทำการ Transform (ปรับเปลี่ยน) ลักษณะของ Features ให้เหมาะแก่การนำไปใช้งาน <br>
 ตามที่ได้กำหนดไว้ในแผนภาพ ซึ่งประกอบไปด้วย *เป้าหมาย* :triangular_flag_on_post: และ ```Analytics Engines``` :gear:  ที่จะนำมาใช้
 
-Transformation results :
+:white_check_mark: Features Transformation results :
 
-![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/ed1acb77-3a90-4bd6-ba73-0283220f7c4e)
+![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/af0ea13f-89fe-4d00-92ef-f723b86adbe7)
 
 <br>
 <br>
 
-ในขั้นตอนนี้ จะมีการนำ ```Machine Learning``` เข้ามาช่วย ในการทำ ```Segmentation``` <br>
-โดยขั้นตอนคร่าวๆคือ : <br>
-
-**DATA Transformation** by ```preprocessing``` :arrow_forward: **Dimensionality Reduction** By ```TruncatedSVD``` หรือ ```PCA``` :arrow_forward: ```KMeans```
+ในขั้นตอนต่อจากนี้ จะมีการนำ ```Machine Learning``` เข้ามาช่วย ในการทำ ```Segmentation``` <br>
 
 --------------------------------------
 
@@ -99,6 +96,10 @@ Transformation results :
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/KMean_LostusAnalytic.ipynb)
 
 --------------------------------------
+
+โดยขั้นตอนคร่าวๆคือ : <br>
+
+**DATA Transformation** by ```preprocessing``` :arrow_forward: **Dimensionality Reduction** By ```TruncatedSVD``` or ```PCA``` :arrow_forward: ```KMeans```
 
 XX
 
