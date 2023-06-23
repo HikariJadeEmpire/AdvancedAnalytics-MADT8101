@@ -13,7 +13,7 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-16_Jun_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>WEEK 02</h4>
-- [Customer single view](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view)
+- [Customer single view](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view)
 
 **Tools & Others**
 
