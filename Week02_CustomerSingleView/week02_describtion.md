@@ -69,6 +69,11 @@ First inspection <br>
 # <h4>STEP 2</h4>
 - DATA Transformation
 
+ในขั้นตอนนี้ เราจะทำการ Transform (ปรับเปลี่ยน) ลักษณะของ Features ให้เหมาะแก่การนำไปใช้งาน <br>
+ตามที่ได้กำหนดไว้ในแผนภาพ ซึ่งประกอบไปด้วย *เป้าหมาย* :triangular_flag_on_post: และ ```Analytics Engines``` :gear:  ที่จะนำมาใช้
+
+Transformation results :
+
 
 
 #
