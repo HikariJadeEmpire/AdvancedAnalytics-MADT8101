@@ -47,17 +47,29 @@ First inspection <br>
 > - ลูกค้าส่วนมากใช้ตะกร้าขนาดใหญ่ :shopping_cart: ในการเลือกซื้อของ และมักจะซื้อของเต็มตะกร้าเสมอ
 > - ลูกค้าโดยส่วนใหญ่ซื้อสินค้าประเภทของสด ( Fresh ) :cut_of_meat:
 
+
+#
 <br>
 
 เพื่อทำให้ได้ตามเป้าหมาย ( [:pushpin: **Goal** :fire:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) ) เราจะนำ ```Analytics Engines``` มาใช้งาน <br>
 
-จากข้อมูลที่ได้มาในเบื้องต้น สามารถนำมากำหนดเป้าหมายในการสร้าง ```customer single view``` ได้ดังนี้ : <br>
+จากข้อมูลที่ได้มาในเบื้องต้น สามารถนำมากำหนดเป้าหมาย 	:triangular_flag_on_post: ในการสร้าง ```customer single view``` ได้ ดังแผนภาพด้านล่าง : <br>
 <br>
 
 ![Personal visualization - cust single view0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/76e88671-81ff-4350-9f36-fb4262470659)
 
 <br>
-add column ['qty_per_all'](https://thewisdom.co/content/customer-lifetime-value/) and (most freq + meantime between)
+จากแผนภาพดังกล่าว เราสามารถนำ DATA Insights ไปต่อยอดได้ดังนี้ : <br>
+<br>
+
+> 1. กำหนดเวลาในการซื้อสินค้า :soon: โดยใช้ระยะเวลาโปรโมชั่นสั้นๆเพื่อสร้างความคาดหวังและกระตุ้นให้เกิดการซื้อ
+> 1. สร้างโปรแกรมสะสมแต้ม :tickets: หรือรางวัลเพื่อกระตุ้นให้เกิดการซื้อซ้ำ
+> 1. เสนอของสมนาคุณ :shopping: ต่อผู้ที่มีความสัมพันธ์ที่ดีต่อธุรกิจ เพื่อสร้างความภักดี :muscle:
+
+# <h4>STEP 2</h4>
+- DATA Transformation
+
+
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) <br>
