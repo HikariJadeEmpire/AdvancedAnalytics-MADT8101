@@ -27,7 +27,7 @@
 
 **CODE** : <br>
 
-<a href="https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/KMean_LostusAnalytic.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/KMean_LostusAnalytic.ipynb)
 
 # <h4>STEP 1</h4>
 > - EDA
@@ -82,7 +82,25 @@ First inspection <br>
 
 Transformation results :
 
+![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/ed1acb77-3a90-4bd6-ba73-0283220f7c4e)
 
+<br>
+<br>
+
+ในขั้นตอนนี้ จะมีการนำ ```Machine Learning``` เข้ามาช่วย ในการทำ ```Segmentation``` <br>
+โดยขั้นตอนคร่าวๆคือ : <br>
+
+**DATA Transformation** by ```preprocessing``` :arrow_forward: **Dimensionality Reduction** By ```TruncatedSVD``` หรือ ```PCA``` :arrow_forward: ```KMeans```
+
+--------------------------------------
+
+**CODE** : <br>
+
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/KMean_LostusAnalytic.ipynb)
+
+--------------------------------------
+
+XX
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02_describtion.md#customer-single-view) <br>
