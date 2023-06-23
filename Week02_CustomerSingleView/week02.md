@@ -97,7 +97,7 @@ First inspection <br>
 
 --------------------------------------
 
-โดยขั้นตอนคร่าวๆคือ : <br>
+โดยจะมีขั้นตอนคร่าวๆคือ : <br>
 
 :vertical_traffic_light: **DATA Transformation** by ```preprocessing``` :arrow_forward: **Dimensionality Reduction** By ```TruncatedSVD``` or ```PCA``` :arrow_forward: ```KMeans``` :golfing_man:
 
