@@ -143,9 +143,11 @@ First inspection <br>
 
 กลุ่มถัดมาคือกลุ่มที่ 3 (กลุ่มสุดท้าย) <br>
 - รูปบน : Member
-- รูปล่าง : Non-Member
 
 ![lotusReport-all_Page_5](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/dfdf650c-af82-49b4-88df-8a5c7a8b2692)
+
+- รูปล่าง : Non-Member
+  
 ![lotusReport-all_Page_6](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/55e7e9cc-fa03-4404-bc39-1cc71349af5a)
 
 
