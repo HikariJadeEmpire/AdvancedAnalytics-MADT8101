@@ -155,18 +155,29 @@ First inspection <br>
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
 > 1. มักจะใช้ตะกร้า size L และซื้อเต็มตะกร้า
 > 2. SKU Penetrate สูงที่สุด หรือมีการซื้อสินค้าแทบจะครบทุกประเภทในร้าน
-> 3. Life stage : OA (Old Adults) หรือ กลุ่มผู้ใหญ่ตอนปลาย ในกลุ่ม Member
-> 4. Life stage : OT (Others) หรือ ไม่สามารถระบุช่วงอายุได้ ในกลุ่ม Non-Member
+> 3. Life stage : XX หรือ ไม่สามารถระบุได้
 > 5. กลุ่มนี้ (ที่เป็น Member) จะมาซื้อสินค้ามากที่สุดในตอน 11am และมักจะมาวันอังคาร
-> 6. ในส่วนของลูกค้าประเภท XX (ซึ่งเป็น Outlier) หรือ Non-Member มักจะมาซื้อสินค้าในเวลา 9pm วันอังคาร
 > 7. ถูกจัดอยู่ในกลุ่มรายได้ ปานกลาง-สูง
 > 8. มักจะซื้อสินค้าประเภทของสด :cut_of_meat: และสินค้าประเภท Grocery
-> 9. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีค่อนสูงที่สุด
+> 9. ในส่วนของลูกค้าประเภท Non-Member มักจะมาซื้อสินค้าในเวลา 9pm วันอังคาร
+> 11. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีค่อนสูงที่สุด
 
 #
 
+
 เมื่อสังเกตลักษณะของกลุ่มลูกค้าทั้ง 4 กลุ่มแล้ว เราจะทำการสุ่มตัวอย่างลูกค้าขึ้นมา 1 คนเพื่อทำการอธิบายเพิ่มเติม <br>
 
+
+![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/02929dab-e89d-4a66-9a05-1fc134394f2c)
+
+<br>
+เราสามารถนำข้อมูลที่ได้มา เพื่อทำตามเป้าหมายที่ตั้งไว้ในตอนเริ่มต้น ซึ่งก็คือการ <br>
+
+**Design loyalty tiers** and actions follow their spending styles.
+
+ซึ่งเราสามารถคิด Campaign เพื่อการเสนอเจาะจงเป็นรายบุคคลก็ได้ หรือจะเป็นรายกลุ่มก็ได้
+
+[Check (แก้ แกน X กราฟซ้าย PowerBI)](https://predictive.co.th/blog/customer-lifetime-value/)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view) <br>
