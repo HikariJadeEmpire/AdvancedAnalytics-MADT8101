@@ -164,8 +164,18 @@ First inspection <br>
 
 #
 
+
 เมื่อสังเกตลักษณะของกลุ่มลูกค้าทั้ง 4 กลุ่มแล้ว เราจะทำการสุ่มตัวอย่างลูกค้าขึ้นมา 1 คนเพื่อทำการอธิบายเพิ่มเติม <br>
 
+
+![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/02929dab-e89d-4a66-9a05-1fc134394f2c)
+
+<br>
+เราสามารถนำข้อมูลที่ได้มา เพื่อทำตามเป้าหมายที่ตั้งไว้ในตอนเริ่มต้น ซึ่งก็คือการ <br>
+
+**Design loyalty tiers** and actions follow their spending styles.
+
+ซึ่งเราสามารถคิด Campaign เพื่อการเสนอเจาะจงเป็นรายบุคคลก็ได้ หรือจะเป็นรายกลุ่มก็ได้
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view) <br>
