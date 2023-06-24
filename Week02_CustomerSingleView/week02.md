@@ -178,9 +178,6 @@ First inspection <br>
 
 ![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/2bb6c552-2323-420f-ba05-94c939aae0ab)
 
-ในกรณีตัวอย่างที่นำมาแสดง หากเราจะทำการ Design Campaign เพื่อการรักษาลูกค้าในกลุ่มที่ 1 ( สีน้ำเงินเข้ม ) เราอาจจะเริ่มที่ <br>
-- การจัด Promotion ซื้อ 1 แถม 1 หรือ เสนอสินค้าที่ซื้อคู่กันแล้วได้ส่วนลด โดยจะจัดเฉพาะในวันเสาร์ - อาทิตย์ เพื่อดึงดูดให้ลูกค้ากลุ่มนี้มา Shopping บ่อยขึ้น เป็นต้น
-
 <br>
 เราสามารถนำข้อมูลที่ได้มา เพื่อทำตามเป้าหมายที่ตั้งไว้ในตอนเริ่มต้น ซึ่งก็คือการ <br>
 
@@ -188,6 +185,10 @@ First inspection <br>
 
 ซึ่งเราสามารถคิด Campaign เพื่อการเสนอเจาะจงเป็นรายบุคคลก็ได้ หรือจะเป็นรายกลุ่มก็ได้
 
+#
+
+ในกรณีตัวอย่างที่นำมาแสดง หากเราจะทำการ Design Campaign เพื่อการรักษาลูกค้าในกลุ่มที่ 1 ( สีน้ำเงินเข้ม ) เราอาจจะเริ่มที่ <br>
+- การจัด Promotion ซื้อ 1 แถม 1 หรือ เสนอสินค้าที่ซื้อคู่กันแล้วได้ส่วนลด โดยจะจัดเฉพาะในวันเสาร์ - อาทิตย์ เพื่อดึงดูดให้ลูกค้ากลุ่มนี้มา Shopping บ่อยขึ้น เป็นต้น
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view) <br>
