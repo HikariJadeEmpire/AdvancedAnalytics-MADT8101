@@ -131,13 +131,13 @@ First inspection <br>
 
 กลุ่มถัดมาคือกลุ่มที่ 2
 
-![lotusReport-all_Page_4](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/1cbb3e0a-020f-4e27-8975-284f579d29f5)
+![lotusReport_G3](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/ecd93e8f-a065-4651-bdc4-8599c53072d6)
 
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
 > 1. มักจะใช้ตะกร้า size L และซื้อเต็มตะกร้า
 > 2. Life stage : OT (Others) or YF (Young Family)
-> 3. กลุ่มนี้จะมามากที่สุดในตอนบ่าย (1pm) และเวลา 9pm ในวันจันทร์ และ วันศุกร์
+> 3. มักจะมาซื้อสินค้ามากที่สุดในตอนบ่าย (1pm) และเวลา 9pm ในวันจันทร์ และ วันศุกร์
 > 4. ถูกจัดอยู่ในกลุ่มรายได้ ต่ำ-ปานกลาง
 > 5. มักจะซื้อสินค้าประเภท Mixed หรือซื้อของหลากหลายประเภทรวมกัน
 > 6. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีค่อนข้างสูง
