@@ -83,7 +83,8 @@ First inspection <br>
 
 :white_check_mark: Features Transformation results :
 
-![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/af0ea13f-89fe-4d00-92ef-f723b86adbe7)
+![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/bb23d2b7-f769-4988-b116-1edf7f653840)
+
 
 <br>
 <br>
