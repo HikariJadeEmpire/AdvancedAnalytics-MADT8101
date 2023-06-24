@@ -158,7 +158,7 @@ First inspection <br>
 
 #
 
-จากนั้นเราจะทำการเปรียบเทียบแต่ละ Cluster เพื่ออธิบายลักษณะของแต่ละกลุ่ม
+จากนั้นเราจะทำการเปรียบเทียบ ( Comparing ) แต่ละ Cluster เพื่ออธิบายลักษณะของแต่ละกลุ่ม
 
 ![lotusReport_Page_2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/3b15bb49-5683-4c3c-8e94-1a28e8ccb164)
 
