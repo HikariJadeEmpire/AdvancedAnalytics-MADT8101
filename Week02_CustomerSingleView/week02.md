@@ -177,7 +177,7 @@ First inspection <br>
 
 ซึ่งเราสามารถคิด Campaign เพื่อการเสนอเจาะจงเป็นรายบุคคลก็ได้ หรือจะเป็นรายกลุ่มก็ได้
 
-[Check (แก้ กราฟซ้าย PowerBI)](https://predictive.co.th/blog/customer-lifetime-value/)
+[Check (แก้ แกน X กราฟซ้าย PowerBI)](https://predictive.co.th/blog/customer-lifetime-value/)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view) <br>
