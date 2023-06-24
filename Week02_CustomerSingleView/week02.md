@@ -83,7 +83,7 @@ First inspection <br>
 
 :white_check_mark: Features Transformation results :
 
-![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/bb23d2b7-f769-4988-b116-1edf7f653840)
+![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/6f15bccd-c8d3-421b-adff-8c3230c6b607)
 
 
 <br>
@@ -167,8 +167,8 @@ First inspection <br>
 
 เมื่อสังเกตลักษณะของกลุ่มลูกค้าทั้ง 4 กลุ่มแล้ว เราจะทำการสุ่มตัวอย่างลูกค้าขึ้นมา 1 คนเพื่อทำการอธิบายเพิ่มเติม <br>
 
+![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/2bb6c552-2323-420f-ba05-94c939aae0ab)
 
-![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/02929dab-e89d-4a66-9a05-1fc134394f2c)
 
 <br>
 เราสามารถนำข้อมูลที่ได้มา เพื่อทำตามเป้าหมายที่ตั้งไว้ในตอนเริ่มต้น ซึ่งก็คือการ <br>
