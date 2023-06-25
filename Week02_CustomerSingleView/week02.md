@@ -195,7 +195,7 @@ First inspection <br>
 # Actions
 
 ในกรณีตัวอย่างที่นำมาแสดง หากเราจะทำการ Design Campaign เพื่อการรักษาลูกค้าในกลุ่มที่ 1 :large_blue_diamond: ( สีน้ำเงินเข้ม ) เราอาจจะเริ่มที่ <br>
-- การจัด Promotion ซื้อ 1 แถม 1 หรือ :red_envelope: เสนอสินค้าที่ซื้อคู่กันแล้วได้ส่วนลด โดยจะจัดเฉพาะในวันเสาร์ - อาทิตย์ เพื่อดึงดูดให้ลูกค้ากลุ่มนี้มา Shopping :shopping_cart: บ่อยขึ้น เป็นต้น
+- การเสนอ Promotion ซื้อ 1 แถม 1 หรือ :red_envelope: เสนอสินค้าที่ซื้อคู่กันแล้วได้ส่วนลด เฉพาะในลูกค้ากลุ่มที่ 1 โดยอาจจะเพิ่มการกำหนดเวลาเฉพาะในวันเสาร์ - อาทิตย์ เพื่อดึงดูดให้ลูกค้ากลุ่มนี้มา Shopping :shopping_cart: บ่อยขึ้น เป็นต้น
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view) <br>
