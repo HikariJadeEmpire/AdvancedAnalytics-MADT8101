@@ -87,6 +87,10 @@ First inspection <br>
 
 
 <br>
+
+**note** : <br>
+```CLV = ( (Average spend per 12months)/(Average Quantity per 12months) )*(Time ( Year ) of being customer)```
+
 <br>
 
 ในขั้นตอนต่อจากนี้ จะมีการนำ ```Machine Learning``` เข้ามาช่วย ในการทำ ```Segmentation``` <br>
@@ -106,8 +110,6 @@ First inspection <br>
 ซึ่งจะได้ผลลัพธ์ออกมาเป็น 4 กลุ่ม <br>
 โดยเราจะทำการไล่เรียงลำดับจาก the worst :arrow_forward: the best <br>
 
-**note** : <br>
-```CLV = ( (Average spend per 12months)/(Average Quantity per 12months) )*(Time ( Year ) of being customer)```
 
 ซึ่งจะเริ่มจากกลุ่มที่ 0
 
