@@ -108,7 +108,8 @@ First inspection <br>
 
 ซึ่งจะเริ่มจากกลุ่มที่ 0
 
-![lot01_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/b49bb9fc-d5b2-4757-92e3-b315d3d20503)
+![lot00_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/b7495434-a86b-494d-ac72-0b2454302d0d)
+
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
 > 1. มักจะใช้ตะกร้า size S และซื้อไม่เต็มตะกร้า (โดยส่วนมาก)
@@ -119,7 +120,8 @@ First inspection <br>
 
 กลุ่มถัดมาคือกลุ่มที่ 3
 
-![lot02_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/21b78925-de07-4be7-8b0b-22984afe1856)
+![lot01_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/92fc9912-a63f-4ce9-8704-6c1c4c52d89f)
+
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
 > 1. มักจะใช้ตะกร้า size M และซื้อไม่เต็มตะกร้า
@@ -129,7 +131,7 @@ First inspection <br>
 
 กลุ่มถัดมาคือกลุ่มที่ 1
 
-![lot03_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/bcf28eeb-2205-475e-b769-915ef1d46a9d)
+![lotusReport pdf_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/6e91036d-f0f8-4706-a181-259d3ced6488)
 
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
@@ -142,7 +144,7 @@ First inspection <br>
 
 กลุ่มถัดมาคือกลุ่มที่ 2 (กลุ่มสุดท้าย) <br>
 
-![lot04_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/deefdb02-73cd-4d4b-afbd-5fda1b218fc4)
+![lotusReport pdf2_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/362d4366-eaca-461b-8fae-5278a72b706e)
 
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
@@ -160,7 +162,7 @@ First inspection <br>
 
 จากนั้นเราจะทำการเปรียบเทียบ ( Comparing ) แต่ละ Cluster เพื่ออธิบายลักษณะของแต่ละกลุ่ม
 
-![lot04_Page_2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/64b0a9f8-9dfd-479c-9525-3da9c4c018a9)
+![lotusReport pdf2_Page_2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/f796c3e8-a77a-49b1-a496-8045f943d084)
 
 <br>
 
@@ -176,7 +178,7 @@ First inspection <br>
 เมื่อสังเกตลักษณะของกลุ่มลูกค้าทั้ง 4 กลุ่มแล้ว เราจะทำการสุ่มตัวอย่างลูกค้าขึ้นมา 1 คน <br>
 เพื่อนำมาเป็นตัวอย่างของ Customer single view <br>
 
-![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/3fc6d785-3d9e-4a4d-81ec-230e7175dfc7)
+![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/6cdd578d-29a3-473d-ab93-f589afcbafee)
 
 <br>
 เราสามารถนำข้อมูลที่ได้มา เพื่อทำตามเป้าหมายที่ตั้งไว้ในตอนเริ่มต้น ซึ่งก็คือการ <br>
