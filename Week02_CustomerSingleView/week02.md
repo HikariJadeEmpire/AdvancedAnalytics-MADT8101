@@ -106,20 +106,9 @@ First inspection <br>
 ซึ่งจะได้ผลลัพธ์ออกมาเป็น 4 กลุ่ม <br>
 โดยเราจะทำการไล่เรียงลำดับจาก the worst :arrow_forward: the best <br>
 
-ซึ่งจะเริ่มจากกลุ่มที่ 3
+ซึ่งจะเริ่มจากกลุ่มที่ 0
 
-![lotusReport_G1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/bcd61223-8a7f-4952-9608-b81f1164abf6)
-
-
-สำหรับกลุ่มนี้ จะมีลักษณะคือ :
-> 1. มักจะใช้ตะกร้า size M และซื้อไม่เต็มตะกร้า
-> 2. Life stage : Mixed หรือ หลากหลายช่วงอายุ
-> 3. มักจะมาซื้อสินค้าในช่วงวันอาทิตย์ เวลา 1pm
-> 4. โดยรวมแล้วกลุ่มนี้มีการซื้อสินค้าเฉลี่ยต่อปีน้อยที่สุด
-
-กลุ่มถัดมาคือกลุ่มที่ 0
-
-![lotusReport_G2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/c741fd1b-a760-4d6b-bd22-d39f82b5fa31)
+![lot00_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/b7495434-a86b-494d-ac72-0b2454302d0d)
 
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
@@ -127,24 +116,35 @@ First inspection <br>
 > 2. Life stage : OT (Others) or OA (Old Adult) โดยภาพรวมแล้วค่อนข้างที่จะหลากหลาย
 > 3. มักจะมาซื้อสินค้าในช่วงวันจันทร์ เวลา 9pm
 > 4. มักจะซื้อสินค้าประเภทของสด :cut_of_meat: และรองลงมาคือสินค้าประเภท Grocery
-> 5. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีมากกว่ากลุ่มก่อนหน้านิดหน่อย (ไม่ต่างกันมาก)
+> 5. โดยรวมแล้วกลุ่มนี้มีการซื้อสินค้าเฉลี่ยต่อปีน้อยที่สุด
+
+กลุ่มถัดมาคือกลุ่มที่ 3
+
+![lot01_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/92fc9912-a63f-4ce9-8704-6c1c4c52d89f)
+
+
+สำหรับกลุ่มนี้ จะมีลักษณะคือ :
+> 1. มักจะใช้ตะกร้า size M และซื้อไม่เต็มตะกร้า
+> 2. Life stage : Mixed หรือ หลากหลายช่วงอายุ
+> 3. มักจะมาซื้อสินค้าในช่วงวันอาทิตย์ เวลา 1pm
+> 4. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีมากกว่ากลุ่มก่อนหน้านิดหน่อย (ไม่ต่างกันมาก)
 
 กลุ่มถัดมาคือกลุ่มที่ 1
 
-![lotusReport_G3](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/ecd93e8f-a065-4651-bdc4-8599c53072d6)
+![lotusReport pdf_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/6e91036d-f0f8-4706-a181-259d3ced6488)
 
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
 > 1. มักจะใช้ตะกร้า size L และซื้อเต็มตะกร้า
 > 2. Life stage : OT (Others) or YF (Young Family)
 > 3. มักจะมาซื้อสินค้ามากที่สุดในตอนบ่าย (1pm) และเวลา 9pm ในวันจันทร์ และ วันศุกร์
-> 4. ถูกจัดอยู่ในกลุ่มรายได้ ต่ำ-ปานกลาง
+> 4. มักจะซื้อสินค้าในระดับราคา ต่ำ-ปานกลาง
 > 5. มักจะซื้อสินค้าประเภท Mixed หรือซื้อของหลากหลายประเภทรวมกัน
 > 6. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีค่อนข้างสูง
 
 กลุ่มถัดมาคือกลุ่มที่ 2 (กลุ่มสุดท้าย) <br>
 
-![lotusReport_G4](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/1d90d750-5aa6-42d1-a9f9-3e2a7556103f)
+![lotusReport pdf2_Page_1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/362d4366-eaca-461b-8fae-5278a72b706e)
 
 
 สำหรับกลุ่มนี้ จะมีลักษณะคือ :
@@ -152,7 +152,7 @@ First inspection <br>
 > 2. SKU Penetrate โดยเฉลี่ยสูงที่สุด หรือมีการซื้อสินค้าโดยเฉลี่ยแทบจะครบทุกประเภทในร้าน
 > 3. Life stage : XX หรือ ไม่สามารถระบุได้
 > 5. มักจะมาซื้อสินค้าในช่วงวันอังคาร เวลา 9pm
-> 7. ถูกจัดอยู่ในกลุ่มรายได้ ปานกลาง-สูง
+> 7. มักจะซื้อสินค้าในระดับราคา ปานกลาง-สูง
 > 8. มักจะซื้อสินค้าประเภทของสด :cut_of_meat:
 > 11. โดยรวมแล้วกลุ่มนี้จะมีการซื้อสินค้าเฉลี่ยต่อปีสูงที่สุด
 
@@ -162,23 +162,23 @@ First inspection <br>
 
 จากนั้นเราจะทำการเปรียบเทียบ ( Comparing ) แต่ละ Cluster เพื่ออธิบายลักษณะของแต่ละกลุ่ม
 
-![lotusReport_Page_2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/3b15bb49-5683-4c3c-8e94-1a28e8ccb164)
+![lotusReport pdf_Page_2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/95bad78b-460b-45d0-9c76-8adf42f3e647)
 
 <br>
 
 สำหรับการเปรียบเทียบ Cluster แต่ละกลุ่ม เราจะทำการเรียงลำดับตามอัตราการซื้อสินค้าจาก น้อย-มาก พบว่า :
 
-1. กลุ่ม 0 :large_blue_circle: ( สีฟ้า ) คือกลุ่มที่มักจะซื้อสินค้าประเภทของชำ และสินค้าประเภทที่ :x: ไม่ใช่อาหาร ซึ่งมักจะซื้อในจำนวนที่น้อย ไม่หลากหลาย แต่มาซื้อบ่อย
-2. กลุ่ม 3 :purple_circle: (สีม่วง) คือกลุ่มที่มักจะมีค่าที่เป็น XX คือระบุไม่ได้ :grey_question: และเป็นคนกลุ่มน้อย มาไม่บ่อย แต่ซื้อเยอะกว่ากลุ่ม 0 :large_blue_circle:
+1. กลุ่ม 0 :purple_circle: (สีม่วง) คือกลุ่มที่มักจะซื้อสินค้าประเภทของชำ และสินค้าประเภทที่ :x: ไม่ใช่อาหาร ซึ่งมักจะซื้อในจำนวนที่น้อย ไม่หลากหลาย แต่มาซื้อบ่อย
+2. กลุ่ม 3 :large_orange_diamond: ( สีส้ม ) คือกลุ่มที่มักจะมีค่าที่เป็น XX คือระบุไม่ได้ :grey_question: และเป็นคนกลุ่มน้อย มาไม่บ่อย แต่ซื้อเยอะกว่ากลุ่ม 0 :large_blue_circle:
 3. กลุ่ม 1 :large_blue_diamond: ( สีน้ำเงินเข้ม ) คือกลุ่มที่มาไม่บ่อย แต่เมื่อมาแล้วมักจะซื้อของหลายอย่าง และซื้อเยอะเต็มตะกร้า :shopping: และเป็นกลุ่มที่ชอบซื้อของราคาถูก :label:
-4. กลุ่ม 2 :large_orange_diamond: ( สีส้ม ) คือกลุ่มที่ซื้อของแพง :gem: ซื้อเยอะที่สุด และซื้อบ่อย มักจะซื้อสินค้าประเภทของสด :cut_of_meat:
+4. กลุ่ม 2 :large_blue_circle: ( สีฟ้า ) คือกลุ่มที่ซื้อของแพง :gem: ซื้อเยอะที่สุด และซื้อบ่อย มักจะซื้อสินค้าประเภทของสด :cut_of_meat:
 
 <br>
 
 เมื่อสังเกตลักษณะของกลุ่มลูกค้าทั้ง 4 กลุ่มแล้ว เราจะทำการสุ่มตัวอย่างลูกค้าขึ้นมา 1 คน <br>
 เพื่อนำมาเป็นตัวอย่างของ Customer single view <br>
 
-![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/2bb6c552-2323-420f-ba05-94c939aae0ab)
+![Personal visualization - cust single view1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/6cdd578d-29a3-473d-ab93-f589afcbafee)
 
 <br>
 เราสามารถนำข้อมูลที่ได้มา เพื่อทำตามเป้าหมายที่ตั้งไว้ในตอนเริ่มต้น ซึ่งก็คือการ <br>
