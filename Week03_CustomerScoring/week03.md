@@ -13,7 +13,7 @@
 
 Example : **Cafe Amazon**
 
-![Personal visualization - CLV  amp; Scoring 0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/3c620d2a-aa09-401c-946c-f3e42d4b5188)
+![Personal visualization - CLV  amp; Scoring 0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/9335e4ff-7264-4535-a65a-9c98aff7ec39)
 
 <br>
 
