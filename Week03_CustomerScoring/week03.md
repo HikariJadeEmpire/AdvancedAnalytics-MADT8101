@@ -11,7 +11,7 @@
 
 #
 
-Example : **Cafe Amazon**
+Example : :leaves: **Cafe Amazon** :parrot:
 
 ![Personal visualization - CLV  amp; Scoring 0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/9335e4ff-7264-4535-a65a-9c98aff7ec39)
 
