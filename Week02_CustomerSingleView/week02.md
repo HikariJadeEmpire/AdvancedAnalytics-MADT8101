@@ -30,6 +30,8 @@
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/KMean_LostusAnalytic.ipynb)
 
+To the result : [Click!](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#results)
+
 # <h4>STEP 1</h4>
 > - EDA
 > - Clean DATA
