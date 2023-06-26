@@ -1,6 +1,6 @@
 # Customer Scoring
 :round_pushpin: **GOAL :** 
-> Designing Customer score
+> Designing a loyalty program for customer
 
 # <h4>Tools & Others</h4>
 
