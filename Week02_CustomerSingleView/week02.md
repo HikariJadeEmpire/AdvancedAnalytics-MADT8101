@@ -94,7 +94,8 @@ First inspection <br>
 
 <br>
 
-ในขั้นตอนต่อจากนี้ จะมีการนำ ```Machine Learning``` เข้ามาช่วย ในการทำ ```Segmentation``` ซึ่งเราจะต้องทำการ Drop Column 'cust_id' ออกก่อนด้วย <br>
+ในขั้นตอนต่อจากนี้ จะมีการนำ ```Machine Learning``` เข้ามาช่วย ในการทำ ```Segmentation``` <br>
+ซึ่งเราจะต้องทำการ Drop Column 'cust_id' ออกก่อนด้วย <br>
 
 --------------------------------------
 
