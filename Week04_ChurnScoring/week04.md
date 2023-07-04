@@ -22,6 +22,10 @@
 
 **CODE** : <br>
 
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week04_ChurnScoring/myChurnPrediction.ipynb)
+
+#
+
 XXX
 
 #
