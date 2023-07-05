@@ -32,7 +32,7 @@ Using Cohort Analysis
 
 In order to define :running: churn customers, I will create an indicator that facilitates a clearer understanding as follows :
 
-```
+```ruby
 
 CHURN_Score = [(number of months since registeration)-(active_count)]/(number of months since registeration)
 
