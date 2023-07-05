@@ -27,7 +27,7 @@
 
 :mag: **1st Inspection of CHURN** <br>
 
-*(The data remains the same as in Week02.)*
+*(The data remains the same as in [Week02.](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view))*
 
 - Using Cohort Analysis
 
