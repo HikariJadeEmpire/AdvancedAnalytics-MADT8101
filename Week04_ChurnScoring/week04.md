@@ -1,6 +1,6 @@
 # Churn Scoring
-:round_pushpin: **GOAL :** 
-> Define customer churn from raw data using python
+:round_pushpin: **GOAL :fire: :**
+> Define customer churn :running: from raw data using python
 
 # <h4>Tools & Others</h4>
 
@@ -25,7 +25,26 @@
 
 #
 
+:mag: **1st Inspection of CHURN** <br>
+Using Cohort Analysis
+
+![outputChurn0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/a81cbcf5-828f-421a-90fc-1dfecfa7ef2b)
+
+In order to define :running: churn customers, I will create an indicator that facilitates a clearer understanding as follows :
+
+```
+
+CHURN_Score = [(number of months since registeration)-(active_count)]/(number of months since registeration)
+
+```
+
+As evident from the table presented below: <br>
+
 XXX
+
+In order to enhance comprehension, I will construct a comprehensive graph below :
+
+![outputChurn1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/c2ad2a8e-5953-4340-a1a7-c9d189894b78)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week04_ChurnScoring/week04.md#churn-scoring) <br>
