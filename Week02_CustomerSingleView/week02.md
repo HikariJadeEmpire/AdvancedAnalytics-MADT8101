@@ -90,7 +90,11 @@ First inspection <br>
 <br>
 
 **note** : <br>
-```CLV = ( (Average spend per 12months)/(Average Quantity per 12months) )*(Time ( Year ) of being customer)```
+```ruby
+
+CLV = ( (Average spend per 12months)/(Average Quantity per 12months) )*(Time ( Year ) of being customer)
+
+```
 
 <br>
 
