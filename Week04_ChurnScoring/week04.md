@@ -47,9 +47,16 @@ CHURN_Score = [(number of months since registeration)-(active_count)]/(number of
 
 As evident from the table presented below: <br>
 
-XXX
+<br>
+
+<img width="816" alt="Screenshot 2566-07-05 at 21 07 22" src="https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/aa9baeb1-4714-4956-b724-a6e5260130cd">
+
+<br>
+<br>
 
 In order to enhance comprehension, I will construct a comprehensive graph below :
+
+<br>
 
 ![outputChurn1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/c2ad2a8e-5953-4340-a1a7-c9d189894b78)
 
