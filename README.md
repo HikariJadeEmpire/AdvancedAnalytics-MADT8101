@@ -1,4 +1,4 @@
-# AdvancedAnalytics-MADT8101
+# AdvancedAnalytics
 Description : 
 > Repositories of analytics workshop
 
