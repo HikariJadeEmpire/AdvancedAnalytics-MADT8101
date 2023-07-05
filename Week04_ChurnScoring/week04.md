@@ -26,17 +26,24 @@
 #
 
 :mag: **1st Inspection of CHURN** <br>
-Using Cohort Analysis
+- Using Cohort Analysis
+
+<br>
 
 ![outputChurn0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/a81cbcf5-828f-421a-90fc-1dfecfa7ef2b)
 
+<br>
+
 In order to define :running: churn customers, I will create an indicator that facilitates a clearer understanding as follows :
+
+<br>
 
 ```ruby
 
 CHURN_Score = [(number of months since registeration)-(active_count)]/(number of months since registeration)
 
 ```
+<br>
 
 As evident from the table presented below: <br>
 
