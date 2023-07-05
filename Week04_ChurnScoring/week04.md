@@ -26,6 +26,9 @@
 #
 
 :mag: **1st Inspection of CHURN** <br>
+
+*(The data remains the same as in Week02.)*
+
 - Using Cohort Analysis
 
 <br>
