@@ -27,8 +27,8 @@
 
 #
 
-:mag: **1st Inspection of CHURN** <br>
-Using Cohort Analysis
+:mag: **1st Inspection** <br>
+Using --
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week05_CustomerSegmentation/week05.md#customer-segmentation) <br>
