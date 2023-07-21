@@ -28,7 +28,14 @@
 #
 
 :mag: **1st Inspection** <br>
-Using --
+After cleaning the data, I take another step to define customer behavior and perform segmentation. <br>
+
+Criteria of selecting customer behavior : 
+- RFM ( Recency Frequency Monetary ) analysis or RFM segmentation.
+
+So, I need to transform the data from simple to RFM data.
+
+XX
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week05_CustomerSegmentation/week05.md#customer-segmentation) <br>
