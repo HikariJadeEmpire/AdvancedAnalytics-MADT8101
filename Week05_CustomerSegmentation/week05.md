@@ -35,6 +35,8 @@ Criteria of selecting customer behavior :
 
 So, I need to transform the data from simple to RFM data.
 
+![Personal visualization - Frame 3](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/7efb599c-981c-4f88-8676-770a4e0c10a2)
+
 XX
 
 #
