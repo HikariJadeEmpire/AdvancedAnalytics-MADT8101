@@ -52,7 +52,7 @@ As evident from the table presented below: <br>
 
 <br>
 
-<img width="816" alt="Screenshot 2566-07-05 at 21 07 22" src="https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/aa9baeb1-4714-4956-b724-a6e5260130cd">
+<img width="793" alt="Screenshot 2566-07-22 at 19 11 34" src="https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/26d93885-6c81-4af6-ab2e-25f11ac3ba81">
 
 <br>
 <br>
@@ -61,7 +61,7 @@ In order to enhance comprehension, I will construct a comprehensive graph below 
 
 <br>
 
-![outputChurn1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/c2ad2a8e-5953-4340-a1a7-c9d189894b78)
+![churn](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/f5c2f1cc-8f2b-4dc5-a75e-4e910a781823)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week04_ChurnScoring/week04.md#churn-scoring) <br>
