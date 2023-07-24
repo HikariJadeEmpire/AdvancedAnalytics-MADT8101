@@ -64,7 +64,7 @@ M = contribution_margin = ( Total_Revenue{period}/Number_of_customers{period} )-
 <br>
 
 #
-Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week03_CustomerScoring/week03.md#customer-scoring) <br>
+Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section02/week03CLV.md#customer-lifetime-value) <br>
 Go to home page ( contents ) : 
 [Home :earth_asia:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics)
 
