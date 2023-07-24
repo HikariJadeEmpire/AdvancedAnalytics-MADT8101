@@ -64,6 +64,6 @@ In order to enhance comprehension, I will construct a comprehensive graph below 
 ![churn](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/f5c2f1cc-8f2b-4dc5-a75e-4e910a781823)
 
 #
-Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week04_ChurnScoring/week04.md#churn-scoring) <br>
+Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section03/Week04_ChurnScoring/week04.md#churn-scoring) <br>
 Go to home page ( contents ) : 
 [Home :earth_asia:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics)
