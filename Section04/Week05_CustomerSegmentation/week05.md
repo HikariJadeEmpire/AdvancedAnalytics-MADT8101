@@ -18,13 +18,13 @@
 #
 **Raw data** : <br>
 
-[![](https://img.shields.io/badge/Git-.CSV-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week05_CustomerSegmentation/WEEK05_AdvancedAnalytics.zip)
+[![](https://img.shields.io/badge/Git-.CSV-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/WEEK05_AdvancedAnalytics.zip)
 
 *( RESTRICTED : MLM (Multi-Level Marketing) or Network Marketing data from 2021 to 2023 )*
 
 **CODE** : <br>
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week05_CustomerSegmentation/week5-Segmentation.ipynb)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week5-Segmentation.ipynb)
 
 #
 
