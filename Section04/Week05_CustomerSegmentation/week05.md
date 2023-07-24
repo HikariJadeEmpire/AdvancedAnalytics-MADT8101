@@ -89,7 +89,7 @@ Last 3 month (Segment 03)
 
 # <h3>Segmentation Movement</h3>
 
-![newplot0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/a7207c66-3099-47aa-8e70-29651ad94458)
+![newplot0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/3a7f6357-7898-464c-a352-1555c7a0eeda)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md#customer-segmentation) <br>
