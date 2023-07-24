@@ -1,6 +1,6 @@
-# Customer Scoring
+# Voice of customer analytics
 :round_pushpin: **GOAL :** 
-> Designing a loyalty program for customer
+> Define the voice of customer
 
 # <h4>Tools & Others</h4>
 
@@ -11,15 +11,12 @@
 
 #
 
-Example : :leaves: **Cafe Amazon** :parrot: <br>
-<br>
-
-![Personal visualization - CLV  amp; Scoring 0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/9335e4ff-7264-4535-a65a-9c98aff7ec39)
+Example : 
 
 <br>
 
 #
-Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week03_CustomerScoring/week03.md#customer-scoring) <br>
+Go to top : [Top :world_map:]() <br>
 Go to home page ( contents ) : 
 [Home :earth_asia:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics)
 
