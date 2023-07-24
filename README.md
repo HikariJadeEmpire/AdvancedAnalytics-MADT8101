@@ -26,6 +26,7 @@ Description :
 
 **Tools & Others**
 
+[![](https://img.shields.io/badge/Git_Update-24_Jul_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 03</h4>
 - [Customer Scoring](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section03/Week03_CustomerScoring/week03.md)
