@@ -38,15 +38,58 @@ So, I need to transform the data from simple to RFM data.
 
 ![Personal visualization - Frame 3](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/7efb599c-981c-4f88-8676-770a4e0c10a2)
 
+The next step is to perform segmentation using these columns as follows
+
+![Personal visualization - Frame 4](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/f091c9c0-cb61-4522-a04c-c43d5352bcc8)
+
+
 # <h3>Segmentation result</h3>
-- Segmentation result
 
-![SegmentationResult](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/aa4575ff-f9c5-41e0-b7e8-f6905aa025e8)
+- Overall (Segment 01)
 
-- Feature Importance by cluster
+![output1-0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/6ef1ffb0-4f00-4f03-9e66-4aba67a5ed5f)
 
-![Personal visualization - Frame 1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/e67385f8-ed90-4a28-a6b0-1eb67f58f71e)
 
+- Last 6 month (Segment 02)
+
+![output1-6m](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/01d81b5b-ee93-4827-a935-1707f22b8fa5)
+
+  
+- Last 3 month (Segment 03)
+
+![output1-3m](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/f8468d9d-78e1-4ea0-bae8-96ca3804a8db)
+
+<br>
+
+<h3>Feature Importance</h3>
+
+Overall (Segment 01)
+> **Cluster 0 :** Total Spending , Total Network (Tier 1)<br>
+> **Cluster 1 :** Total Spending , Total Network (Tier 2) <br>
+> **Cluster 2 :** Total Spending , Member Duration , Total Network <br>
+> **Cluster 3 :** Total Spending , Total Transaction , Total Network <br>
+> **Cluster 4 :** Total Network , Member Duration , Total Spending , Ticket Size <br>
+> **Cluster 5 :** Total Spending , Total Network (Tier 3)
+
+Last 6 month (Segment 02)
+> **Cluster 0 :** SKU last 6m , Network last 6m <br>
+> **Cluster 1 :** Spending last 6m online , Transaction last 6m <br>
+> **Cluster 2 :** Spending last 6m , Member Duration <br>
+> **Cluster 3 :** Spending last 6m , Transaction last 6m <br>
+> **Cluster 4 :** Spending last 6m online , Spending last 6m offline , Network last 6m <br>
+> **Cluster 5 :** Spending last 6m offline , Spending last 6m online <br>
+
+Last 3 month (Segment 03)
+> **Cluster 0 :** Transaction last 3m , Network last 3m <br>
+> **Cluster 1 :** Spending last 3m , Transaction last 3m <br>
+> **Cluster 2 :** Spending last 3m , Spending last 3m offline , Spending last 3m online <br>
+> **Cluster 3 :** Spending last 3m offline , Spending last 3m online <br>
+> **Cluster 4 :** Spending last 3m online , Spending last 3m offline , Network last 3m <br>
+> **Cluster 5 :** Spending last 3m , Transaction last 3m , Spending last 3m online <br>
+
+# <h3>Segmentation Movement</h3>
+
+![newplot0](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/191b6e96-919d-490d-a3c4-07932537a5bd)
 
 #
 Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md#customer-segmentation) <br>
