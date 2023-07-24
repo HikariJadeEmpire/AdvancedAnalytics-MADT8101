@@ -49,6 +49,6 @@ So, I need to transform the data from simple to RFM data.
 
 
 #
-Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week05_CustomerSegmentation/week05.md#customer-segmentation) <br>
+Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md#customer-segmentation) <br>
 Go to home page ( contents ) : 
 [Home :earth_asia:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics-madt8101)
