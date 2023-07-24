@@ -23,7 +23,7 @@ Use case in example : <br>
 ![Personal visualization - customer data platform 01-1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/26f01e02-4684-4be0-8fa9-fbb3989cf84b)
 
 #
-Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week01_DesigningCustomerDataPlatform/week01-description.md#designing-customer-data-platform) <br>
+Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week01_DesigningCustomerDataPlatform/week01-description.md#designing-customer-data-platform) <br>
 Go to home page ( contents ) : 
 [Home :earth_asia:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics)
 
