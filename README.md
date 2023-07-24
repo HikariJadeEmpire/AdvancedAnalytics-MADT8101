@@ -44,7 +44,7 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-5_Jul_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 04</h4>
-- [Customer Segmentation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md)
+- [:sparkles: Customer Segmentation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md)
 - [Product Recommendation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Product%20recommendation/week05PR.md)
 
 **Tools & Others**
