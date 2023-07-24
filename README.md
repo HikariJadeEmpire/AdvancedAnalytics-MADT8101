@@ -3,8 +3,8 @@ Description :
 > Repositories of analytics workshop
 
 # <h4>Section 01</h4>
-- [Designing Customer Data Platform](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week01_DesigningCustomerDataPlatform/week01-description.md#designing-customer-data-platform)
-- [:sparkles: Customer single view](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view)
+- [Designing Customer Data Platform](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week01_DesigningCustomerDataPlatform/week01-description.md)
+- [:sparkles: Customer single view](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week02_CustomerSingleView/week02.md)
 
 **Tools & Others**
 
@@ -22,14 +22,14 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-22_Jun_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 02</h4>
-- [Customer Lifetime Value]()
+- [Customer Lifetime Value](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section02/week03CLV.md)
 
 **Tools & Others**
 
 
 # <h4>Section 03</h4>
-- [Customer Scoring](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week03_CustomerScoring/week03.md#customer-scoring)
-- [:sparkles: CHURN Scoring](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week04_ChurnScoring/week04.md#churn-scoring)
+- [Customer Scoring](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section03/Week03_CustomerScoring/week03.md)
+- [:sparkles: CHURN Scoring](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section03/Week04_ChurnScoring/week04.md)
 
 **Tools & Others**
 
@@ -43,8 +43,8 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-5_Jul_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 04</h4>
-- [Customer Segmentation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week05_CustomerSegmentation/week05.md)
-- [Product Recommendation]()
+- [Customer Segmentation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/week05.md)
+- [Product Recommendation](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Product%20recommendation/week05PR.md)
 
 **Tools & Others**
 
@@ -60,7 +60,7 @@ Description :
 [![](https://img.shields.io/badge/Git_Update-12_Jul_2023-brightgreen?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 
 # <h4>Section 05</h4>
-- [Voice of Customer Analytics]()
+- [Voice of Customer Analytics](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section05/SocialAnalytic.md)
 
 **Tools & Others**
 
