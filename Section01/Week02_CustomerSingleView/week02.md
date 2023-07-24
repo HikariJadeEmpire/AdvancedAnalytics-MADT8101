@@ -205,7 +205,7 @@ CLV = ( (Average spend per 12months)/(Average Quantity per 12months) )*(Time ( Y
 - การเสนอ Promotion ซื้อ 1 แถม 1 หรือ :red_envelope: เสนอสินค้าที่ซื้อคู่กันแล้วได้ส่วนลด เฉพาะในลูกค้ากลุ่มที่ 1 โดยอาจจะเพิ่มการกำหนดเวลาเฉพาะในวันเสาร์ - อาทิตย์ เพื่อดึงดูดให้ลูกค้ากลุ่มนี้มา Shopping :shopping_cart: บ่อยขึ้น เป็นต้น
 
 #
-Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view) <br>
+Go to top : [Top :world_map:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week02_CustomerSingleView/week02.md#customer-single-view) <br>
 Go to home page ( contents ) : 
 [Home :earth_asia:](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101#advancedanalytics)
 
