@@ -15,19 +15,19 @@
 #
 **Raw data** : <br>
 
-[![](https://img.shields.io/badge/Git-.CSV-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/supermarket.csv)
+[![](https://img.shields.io/badge/Git-.CSV-rgb(208,211,212)?style=f?style=flat-square&logo=github&logoColor=white)](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week02_CustomerSingleView/supermarket.csv)
 
 *( Supermarket (Lotus) data from 2006 to 2008, US )*
 
 **CODE** : <br>
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week04_ChurnScoring/myChurnPrediction.ipynb)
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section03/Week04_ChurnScoring/myChurnPrediction.ipynb)
 
 #
 
 :mag: **1st Inspection of CHURN** <br>
 
-*(The data remains the same as in [Section01.](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Week02_CustomerSingleView/week02.md#customer-single-view))*
+*(The data remains the same as in [Section01.](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section01/Week02_CustomerSingleView/week02.md))*
 
 - Using Cohort Analysis
 
