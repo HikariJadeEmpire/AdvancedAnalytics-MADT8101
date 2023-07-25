@@ -28,7 +28,26 @@
 #
 
 :mag: **1st Inspection** <br>
+(The data remains the same as in [*Section04.*](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/blob/main/Section04/Week05_CustomerSegmentation/WEEK05_AdvancedAnalytics.zip)) <br>
 After cleaning the data, I take an additional step to transform the data before performing product recommendation. <br>
+
+**Before Data Transformation**
+
+![Capture2](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/bd19926a-6947-40a0-9bfd-c0aa56142aa9)
+
+**After Data Transformation**
+
+![Capture1](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/d982670c-42b0-47b7-b2be-e1aae4f35720)
+
+<br>
+
+***Note :*** Since the data doesn't include product ratings, <br>
+I use the quantity of purchased products instead to perform ```Collaborative Filtering (item-based)```
+<br>
+
+# Plot the result
+
+![output_prod](https://github.com/HikariJadeEmpire/AdvancedAnalytics-MADT8101/assets/118663358/73a15468-b4b4-40ba-9b07-c5fd47873420)
 
 
 #
