@@ -42,7 +42,7 @@ After cleaning the data, I take an additional step to transform the data before 
 <br>
 
 ***Note :*** Since the data doesn't include product ratings, <br>
-I use the quantity of purchased products instead to perform ```Collaborative Filtering (item-based)```
+I use the quantity of purchased products instead to perform ```Collaborative Filtering (item-item)```
 <br>
 
 # Plot the result
