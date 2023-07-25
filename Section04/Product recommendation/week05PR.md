@@ -28,7 +28,7 @@
 #
 
 :mag: **1st Inspection** <br>
-After cleaning the data, I take another step to define customer behavior and perform segmentation. <br>
+After cleaning the data, I take an additional step to transform the data before performing product recommendation. <br>
 
 
 #
